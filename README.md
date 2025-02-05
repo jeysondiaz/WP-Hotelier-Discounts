@@ -1,2 +1,52 @@
 # WP-Hotelier-Discounts
 Plugin that extends WP Hotelier by allowing administrators to set discounts based on the number of guests and nights booked
+
+Features
+
+Set percentage-based discounts for different numbers of guests.
+
+Configure discounts for extended stays (more nights, bigger discounts).
+
+Simple admin interface for managing discount settings.
+
+Fully integrates with WP Hotelier pricing calculations.
+
+Installation
+
+Download the plugin zip file.
+
+Go to your WordPress dashboard.
+
+Navigate to Plugins > Add New.
+
+Click on Upload Plugin and select the zip file.
+
+Click Install Now and then Activate.
+
+Configuration
+
+Go to WP Admin > Descuentos Hotel.
+
+Enter discount values for guest count and nights.
+
+Save changes.
+
+How It Works
+
+The plugin modifies the base price dynamically by applying the configured discounts.
+
+Discounts are applied automatically during the booking process.
+
+Compatibility
+
+Requires WP Hotelier plugin to be installed and activated.
+
+Compatible with WordPress 5.0+.
+
+Support
+
+For issues or feature requests, please open an issue in the GitHub repository.
+
+License
+
+This plugin is licensed under the GPL v2 or later.
